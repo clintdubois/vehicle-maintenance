@@ -1,6 +1,8 @@
 # Vehicle Maintenance & Projects
 
-Centralized repository for tracking maintenance, repairs, projects, and documentation for boats, RVs, and cars.
+Centralized repository for tracking maintenance, repairs, projects, and documentation for boats and cars.
+
+RV and campervan documentation lives in the separate `RV-Maintenance` repo.
 
 ## Organization
 
@@ -10,13 +12,6 @@ Evinrude outboards, marine engines, and watercraft maintenance
 - Parts lists and technical manuals
 - Maintenance schedules
 - Repair projects
-
-### [RVs/](RVs/)
-Motorhome and travel trailer maintenance
-- Chassis and mechanical work
-- Appliance servicing
-- Electrical systems
-- Storage and winterization procedures
 
 ### [Cars/](Cars/)
 Automotive maintenance and repairs
