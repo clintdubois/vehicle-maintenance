@@ -1,0 +1,48 @@
+# Large binary files (keep documentation in text/markdown format when possible)
+*.pdf
+*.iso
+*.zip
+*.rar
+*.7z
+
+# Backup files
+*.bak
+*.backup
+*~
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.pytest_cache/
+venv/
+env/
+
+# Logs
+*.log
+
+# Node
+node_modules/
+npm-debug.log
+
+# System
+.env
+secrets.json
+config.local.json
