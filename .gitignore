@@ -1,5 +1,4 @@
 # Large binary files (keep documentation in text/markdown format when possible)
-*.pdf
 *.iso
 *.zip
 *.rar
